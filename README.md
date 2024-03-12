@@ -1,4 +1,4 @@
-## Desing Pattern - Factory - Sample
+## Design Pattern - Factory
 
 Criamos a interface MotorVeiculo com o método build().
 Implementamos as classes Motocicleta e Carro que representam tipos específicos de veículos.
